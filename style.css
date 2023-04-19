@@ -1,0 +1,68 @@
+.headerlist li a {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color:#7D7D7D;
+}
+ul {
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.headerlist :hover {
+    color: #03A9F4;
+}
+
+.height-p {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+}
+
+.h {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    /* identical to box height */
+    
+    
+    color: #626262;
+}
+
+.low-p {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    
+    color: #626262;
+}
+
+.text-btn {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+        /* identical to box height */
+    
+    
+    color: #626262;
+
+
+    width: 165px;
+    height: 60px;
+    left: 506px;
+    top: 2110px;
+}
