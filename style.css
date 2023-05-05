@@ -59,10 +59,48 @@ a{
     
     
     color: #626262;
+    background: #FFFFFF;
 
 
     width: 165px;
     height: 60px;
     left: 506px;
     top: 2110px;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.headerlist {
+    display: flex;
+    align-items: center;
+
+    margin: 0 auto;
+    width: 555px;
+    justify-content: space-between;
+    margin-bottom: 104px;
+    margin-top: 71px;
+}
+
+.infolist>.info {
+    width: 420px;
+    margin-bottom: 120px;
+}
+.infolist {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    width: 906px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+.btndiv{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: center;
+    margin-bottom: 54px;
 }
