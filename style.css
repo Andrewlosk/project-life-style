@@ -79,9 +79,10 @@ a{
 
     margin: 0 auto;
     width: 555px;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-bottom: 104px;
     margin-top: 71px;
+    padding-left: 0;
 }
 
 .infolist>.info {
