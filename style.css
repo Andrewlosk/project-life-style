@@ -105,3 +105,8 @@ a{
     justify-content: center;
     margin-bottom: 54px;
 }
+
+
+.info{
+    box-shadow: inset 0px 6px 25px 20px rgba(0, 0, 0, 0.5), -25px 25px 10px 10px yellow, -35px 35px 10px 10px blue;
+}
